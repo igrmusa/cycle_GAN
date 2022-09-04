@@ -6,3 +6,12 @@ Projekat prikazuje osnove metoda kao što su uslovljene suparničke mreže, Cycl
 Originalni GitHub repozitorijumi:
 -  [CycleGAN](https://github.com/junyanz/CycleGAN)
 -  [pix2pix](https://github.com/phillipi/pix2pix)
+
+
+Kao i zvanični tensorflow tutoriali za CycleGAN i pix2pix
+-  [CycleGAN i pix2pix2 tutorial](https://www.tensorflow.org/tutorials/generative/cyclegan)
+
+
+Pored ovoga korišćeni su i  radovi na osnovu kojih su nastali ovi modeli
+-  [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
+-  [Image-to-image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v3.pdf)
