@@ -1,1 +1,1 @@
-# cycle_GAN
+# DCGAN, pix2pix i CycleGAN
