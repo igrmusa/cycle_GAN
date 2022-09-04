@@ -5,3 +5,4 @@ Projekat prikazuje osnove metoda kao što su uslovljene suparničke mreže, Cycl
 
 Originalni GitHub repozitorijumi:
 -  [CycleGAN](https://github.com/junyanz/CycleGAN)
+-  [pix2pix](https://github.com/phillipi/pix2pix)
