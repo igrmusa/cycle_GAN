@@ -15,3 +15,8 @@ Kao i zvanični tensorflow tutoriali za CycleGAN i pix2pix
 Pored ovoga korišćeni su i  radovi na osnovu kojih su nastali ovi modeli
 -  [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
 -  [Image-to-image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v3.pdf)
+
+
+
+Napomena:
+Zbog nemogućnosti kačenja velikih fajlova na git ostavljam link kao istreniranim modelima za 04-pix2pix-large-dataset i 05-cyclegan-winter2summer-yosmite odakle se mogu preuzeti: [istrenirani modeli](https://drive.google.com/drive/folders/125sSuZPrNQxnj7DdYOSn44gg9OJlU-CR?usp=sharing)
